@@ -2,9 +2,13 @@
 
 **JarNox** is an end-to-end algorithmic trading dashboard that demonstrates data-driven strategy design, quantitative analysis, and full-stack deployment. It integrates a **Flask + Python backend** for data collection and backtesting with a **React + Plotly frontend** for real-time visualization.
 
-[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![React](https://img.shields.io/badge/React-18.0+-61DAFB.svg)](https://reactjs.org/)
-[![Flask](https://img.shields.io/badge/Flask-2.0+-000000.svg)](https://flask.palletsprojects.com/)
+<img width="1384" height="878" alt="Screenshot 2025-11-04 at 9 12 10 PM" src="https://github.com/user-attachments/assets/f697277e-1d99-44a9-9d03-0445d4424d68" />
+<img width="1373" height="525" alt="Screenshot 2025-11-04 at 9 12 21 PM" src="https://github.com/user-attachments/assets/3d048ec2-2449-4506-9ec8-75f4dad83fed" />
+<img width="1373" height="310" alt="Screenshot 2025-11-04 at 9 12 29 PM" src="https://github.com/user-attachments/assets/68b159e5-724a-4556-9a20-2f0aeed1ded6" />
+
+
+
+
 
 ---
 
